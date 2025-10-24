@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Parroquia San Isidro Labrador - Sistema de Gestión",
+  "description": "Una aplicación para gestionar los registros de pagos, celebraciones e intenciones de la Parroquia San Isidro Labrador. Permite registrar nuevos eventos, consultar información por folio o nombre, gestionar intenciones y generar reportes.",
+  "requestFramePermissions": []
+}
